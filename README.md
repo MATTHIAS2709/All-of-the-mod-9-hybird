@@ -1,8 +1,11 @@
 # All-of-the-mod-9-hybrid
 Modified the modpack all of the mod 9 for make it compatible with Arclight.
 
+2 mods is removed : canary and RSInfinityBooster.
 ## French Section
 J'ai modifier le modpack All of the mod 9 pour faire en sorte qu'il sois compatible avec le serveur Hybride Arclight.
+
+2 mods ont été supprimée : canary et RSInfinityBooster.
 
 ### Comment j'ai fais ?
 Tous d'abord, pour ouvrir le modpack, j'ai utiliser le launcher Prism qui peut ouvrir les modspack fais sous Forge (en plus, quand on crée une instance, on peut aussi le télécharger dans Prsim.).
