@@ -1,4 +1,4 @@
-# All-of-the-mod-9-hybird
+# All-of-the-mod-9-hybrid
 Modified the modpack all of the mod 9 for make it compatible with Arclight.
 
 # French Section
